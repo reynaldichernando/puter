@@ -209,6 +209,7 @@ export const GEMINI_MODELS: IChatModel[] = [
         name: 'Gemini 3.1 Flash-Lite',
         aliases: [
             'google/gemini-3.1-flash-lite',
+            'gemini-3.1-flash-lite-preview',
             'google/gemini-3.1-flash-lite-preview',
         ],
         context: 1_048_576,
